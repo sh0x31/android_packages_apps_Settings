@@ -29,9 +29,6 @@
     <!-- Strings for Dialog deny button -->
     <string name="deny">Deny</string>
 
-    <!-- Device info settings -->
-    <string name="build_version">Build-Version</string>
-
     <!-- Device Info --> <skip />
     <!-- Device Info screen. Used for a status item's value when the proper value is not known -->
     <!-- Device info settings -->
