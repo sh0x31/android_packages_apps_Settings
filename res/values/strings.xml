@@ -29,8 +29,13 @@
     <!-- Strings for Dialog deny button -->
     <string name="deny">Deny</string>
 
+    <!-- Device info settings -->
+    <string name="build_version">Build-Version</string>
+
     <!-- Device Info --> <skip />
     <!-- Device Info screen. Used for a status item's value when the proper value is not known -->
+    <!-- Device info settings -->
+    <string name="build_version">Build version</string>
     <string name="device_info_default">Unknown</string>
     <!-- [CHAR LIMIT=NONE] Device Info screen. Countdown for user taps to enable development settings -->
     <plurals name="show_dev_countdown">
